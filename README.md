@@ -1,2 +1,2 @@
-# manetcc
-MANET Congestion Control
+# Congestion Control Over MANETs
+
